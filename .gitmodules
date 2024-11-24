@@ -1,0 +1,3 @@
+[submodule "OpenXAI"]
+	path = OpenXAI
+	url = https://github.com/statkwon/OpenXAI.git
